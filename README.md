@@ -1,4 +1,4 @@
-# DOM I - JavaScri pt Content Management System
+# DOM I - JavaScript Content Management System
 
 ## Project Description
 
